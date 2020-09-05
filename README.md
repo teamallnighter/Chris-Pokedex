@@ -1,1 +1,7 @@
-pokedex-by-chris
+# Chris' Pokedex
+
+[Using the Pokemon API](https://pokeapi.co/)
+
+
+
+
